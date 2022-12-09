@@ -4009,8 +4009,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db3ff9c74b72c14488e8875929ab718c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  vertical: 0
+  speed: 3
+  vertical: 1
   changeTime: 3
 --- !u!61 &898427276
 BoxCollider2D:
@@ -130860,7 +130860,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5273235168163033109, guid: cd8e1bf4eb4fb62408aace9b0aae22d2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -46.76
       objectReference: {fileID: 0}
     - target: {fileID: 5273235168163033109, guid: cd8e1bf4eb4fb62408aace9b0aae22d2, type: 3}
       propertyPath: m_LocalPosition.z
