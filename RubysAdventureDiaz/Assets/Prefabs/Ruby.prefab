@@ -187,6 +187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   maxHealth: 5
+  projectilePrefab: {fileID: 9144266945984465318, guid: 97aaeee5a5fa95744a42d8e0b03cb662, type: 3}
   timeInvincible: 2
 --- !u!61 &5082393153717773357
 BoxCollider2D:
